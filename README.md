@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **akshaybapumore@gmail.com**
 
-- 📄 Know about my experiences [fresher](fresher)
+- 📄 Know about my experiences [fresher]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
