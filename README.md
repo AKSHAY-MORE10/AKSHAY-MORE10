@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **I Have done HTML,CSS,BOOTSTRAP.**
-
 - 📫 How to reach me **akshaybapumore@gmail.com**
 
 - 📄 Know about my experiences [fresher](fresher)
