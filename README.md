@@ -3,10 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay-more10&label=Profile%20views&color=0e75b6&style=flat" alt="akshay-more10" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **FULLDTACK WEB DEVELOPMENT**
 
-- 💬 Ask me about **I Have done HTML,CSS,BOOTSTRAP.**
-
+- 📫 How to reach me akshaybapumore@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
