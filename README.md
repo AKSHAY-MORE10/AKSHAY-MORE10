@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay-more10&label=Profile%20views&color=0e75b6&style=flat" alt="akshay-more10" /> </p>
 
-- 🌱 I’m currently learning **FULLDTACK WEB DEVELOPMENT**
+- 🌱 I’m currently learning **Fullstack Web Development**
 
 - 📫 How to reach me akshaybapumore@gmail.com
 
