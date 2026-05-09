@@ -1,21 +1,130 @@
-<h1 align="center">Hi 👋, I'm AKSHAY MORE</h1>
-<h3 align="center">A passionate with fullstack web developer from India</h3>
+# Hi there 👋 I'm Akshay More
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay-more10&label=Profile%20views&color=0e75b6&style=flat" alt="akshay-more10" /> </p>
+## 🚀 Data Analytics & ML Engineer
 
-- 🌱 I’m currently learning **Fullstack Web Development**
+Passionate about building AI-powered applications, automation systems, and data-driven solutions using Machine Learning, Deep Learning, and Analytics.
 
-- 📫 How to reach me akshaybapumore@gmail.com
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 👨‍💻 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+- 🎓 BCA – Data Science Student at Sri Balaji University
+- 🤖 Interested in AI, Machine Learning, Computer Vision & Automation
+- 📊 Skilled in Data Analytics, Visualization & Backend Development
+- 🌱 Currently exploring LLMs, AI Agents, and scalable ML systems
+- 📍 Pune, India
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay-more10&show_icons=true&locale=en&layout=compact" alt="akshay-more10" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshay-more10&show_icons=true&locale=en" alt="akshay-more10" /></p>
+## 🛠️ Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-more10&" alt="akshay-more10" /></p>
+### Languages
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![R](https://img.shields.io/badge/R-blue?style=for-the-badge&logo=r)
+
+### Machine Learning & AI
+- scikit-learn
+- TensorFlow
+- PyTorch
+- Deep Learning
+- Feature Engineering
+- Prompt Engineering
+- LLM Integration
+
+### Data Analytics & Visualization
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Power BI
+- Tableau
+- Excel
+- Exploratory Data Analysis (EDA)
+
+### Web & Backend
+- React.js
+- FastAPI
+- Flask
+- REST APIs
+
+### Databases & Cloud
+- MongoDB
+- PostgreSQL
+- Supabase
+- Firebase
+- AWS
+
+### DevOps & Tools
+- Docker
+- Git & GitHub
+- Jupyter Notebook
+- Streamlit
+- CI/CD
+
+---
+
+# 💼 Experience
+
+## Full-Stack Engineer Intern — Shree Sai Engineering
+📅 Feb 2025 – Aug 2025
+
+- Built data-driven systems for attendance tracking and payroll automation
+- Developed analytics workflows and reporting systems
+- Worked on scalable real-time data handling solutions
+- Created dashboards for monitoring workforce activity
+
+---
+
+## Data Analytics Intern — CodingEra Software Pvt. Ltd.
+📅 Apr 2025 – Jun 2025
+
+- Performed data cleaning and preprocessing
+- Conducted exploratory data analysis
+- Built analytics workflows for ML applications
+- Generated insights using visualization techniques
+
+---
+
+# 🚀 Featured Projects
+
+## 📌 SnapClass – AI Attendance System
+
+AI-powered attendance system using face recognition and voice verification.
+
+### Tech Used
+`Python` `Streamlit` `Supabase` `OpenCV` `dlib`
+
+### Features
+- Face Recognition Attendance
+- Voice Authentication
+- QR-based Subject Enrollment
+- Session Analytics Dashboard
+- Attendance Export System
+
+🔗 Live Demo: https://snapclass-rose.vercel.app
+
+---
+
+## 📌 IntervuAI – AI Mock Interview Platform
+
+AI-powered mock interview platform with intelligent feedback system.
+
+### Tech Used
+`React.js` `Firebase` `Gemini AI`
+
+### Features
+- Real-time AI Interview
+- Voice Interaction
+- AI Response Evaluation
+- Performance Tracking Dashboard
+
+🔗 Live Demo: https://intervu-ai-six.vercel.app
+
+---
+
+# 📈 GitHub Stats
+
+```txt
+(Add GitHub stats widgets here later)
