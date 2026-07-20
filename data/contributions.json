@@ -1,22 +1,22 @@
 {
   "username": "AKSHAY-MORE10",
-  "generated_at": "2026-07-19T08:35:14Z",
+  "generated_at": "2026-07-20T09:35:56Z",
   "range": {
     "start": "2025-07-20",
+    "end": "2026-07-20"
+  },
+  "total_contributions": 97,
+  "active_days": 31,
+  "avg_per_active_day": 3.1,
+  "current_streak": {
+    "length": 7,
+    "start": "2026-07-13",
     "end": "2026-07-19"
   },
-  "total_contributions": 96,
-  "active_days": 30,
-  "avg_per_active_day": 3.2,
-  "current_streak": {
-    "length": 6,
-    "start": "2026-07-13",
-    "end": "2026-07-18"
-  },
   "longest_streak": {
-    "length": 6,
+    "length": 7,
     "start": "2026-07-13",
-    "end": "2026-07-18"
+    "end": "2026-07-19"
   },
   "best_day": {
     "date": "2026-05-02",
@@ -73,7 +73,7 @@
     },
     {
       "month": "2026-07",
-      "total": 13
+      "total": 14
     }
   ],
   "days": [
@@ -1535,6 +1535,10 @@
     },
     {
       "date": "2026-07-19",
+      "count": 1
+    },
+    {
+      "date": "2026-07-20",
       "count": 0
     }
   ]
