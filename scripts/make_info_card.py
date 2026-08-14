@@ -40,7 +40,7 @@ ACCENT = "#22d3ee"
 # ("gap",)                     -> vertical space
 ROWS = [
     ("host",),
-    ("kv", "Now", "Full Stack Engineer @ Brezix Studio"),
+    ("kv", "Now", "Al Engineer @ Brezix Studio"),
     ("kv", "Prev", "Full-Stack Intern @ Shree Sai Engineering"),
     ("kv", "Open to", "AI / ML Internships & Junior Roles"),
     ("kv", "Edu", "BCA Data Science, Sri Balaji University"),
